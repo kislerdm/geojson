@@ -111,6 +111,74 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#a10000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "ROI": "weather",
+        "name": "01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5,
+          61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#a10000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "ROI": "weather",
+        "name": "02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2,
+          61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#a10000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "ROI": "weather",
+        "name": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5,
+          61.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#a10000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "ROI": "weather",
+        "name": "12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2,
+          61.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
@@ -461,6 +529,118 @@
             [
               7.66845703125,
               56.49889156789072
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1200ff",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "ROI": "port",
+        "name": "Haugesund"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.262451171875,
+          59.4174876473711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#1200ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#1200ff",
+        "fill-opacity": 0.5,
+        "ROI": "port",
+        "name": "Haugesund"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.162200927734375,
+              59.383583679536315
+            ],
+            [
+              5.162200927734375,
+              59.48135847840536
+            ],
+            [
+              5.295410156249999,
+              59.48135847840536
+            ],
+            [
+              5.295410156249999,
+              59.383583679536315
+            ],
+            [
+              5.162200927734375,
+              59.383583679536315
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1200ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "ROI": "port",
+        "name": "Fetlar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.817108154296875,
+          60.602980985041754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#1200ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#1200ff",
+        "fill-opacity": 0.5,
+        "ROI": "port",
+        "name": "Fetlar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.8222579956054688,
+              60.59977889177551
+            ],
+            [
+              -0.8222579956054688,
+              60.62639716571707
+            ],
+            [
+              -0.7686996459960936,
+              60.62639716571707
+            ],
+            [
+              -0.7686996459960936,
+              60.59977889177551
+            ],
+            [
+              -0.8222579956054688,
+              60.59977889177551
             ]
           ]
         ]
