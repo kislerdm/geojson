@@ -1,0 +1,650 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "ROI": "platform",
+        "name": "A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.705293,
+          61.03481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "ROI": "platform",
+        "name": "B"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.713768,
+          61.05879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "ROI": "platform",
+        "name": "C"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.722611,
+          61.095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star",
+        "ROI": "platform",
+        "name": "D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.736564,
+          61.1323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#05f020",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#2aff00",
+        "fill-opacity": 0.1,
+        "ROI": "selection",
+        "name": "211/29"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1.6,
+              61
+            ],
+            [
+              1.8,
+              61
+            ],
+            [
+              1.8,
+              61.167
+            ],
+            [
+              1.6,
+              61.167
+            ],
+            [
+              1.6,
+              61
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#a10000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "ROI": "weather",
+        "name": "01"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5,
+          61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#a10000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "ROI": "weather",
+        "name": "02"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2,
+          61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#a10000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "ROI": "weather",
+        "name": "11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5,
+          61.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#a10000",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "ROI": "weather",
+        "name": "12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2,
+          61.5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.01,
+        "ROI": "selection",
+        "name": "all"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -2.5,
+              56.5
+            ],
+            [
+              -2.5,
+              63.5
+            ],
+            [
+              8.5,
+              63.5
+            ],
+            [
+              8.5,
+              56.5
+            ],
+            [
+              -2.5,
+              56.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1200ff",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "ROI": "port",
+        "name": "Aberdeen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.08,
+          57.14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#1200ff",
+        "stroke-width": 2,
+        "stroke-opacity": 0.5,
+        "fill": "#1200ff",
+        "fill-opacity": 0.5,
+        "ROI": "port",
+        "name": "Aberdeen"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -2.1,
+              57.05
+            ],
+            [
+              -2.1,
+              57.35
+            ],
+            [
+              -1.9,
+              57.25
+            ],
+            [
+              -1.9,
+              57.05
+            ],
+            [
+              -2.1,
+              57.05
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1200ff",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "ROI": "port",
+        "name": "Bergen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3228759765625,
+          60.38671955355991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#1200ff",
+        "stroke-width": 2,
+        "stroke-opacity": 0.5,
+        "fill": "#1200ff",
+        "fill-opacity": 0.5,
+        "ROI": "port",
+        "name": "Bergen"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5,
+              60
+            ],
+            [
+              4.5,
+              60.8
+            ],
+            [
+              5.5,
+              60.8
+            ],
+            [
+              5.5,
+              60
+            ],
+            [
+              5,
+              60
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1200ff",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "ROI": "port",
+        "name": "Stavanger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.701904296875,
+          58.95850707383433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#1200ff",
+        "stroke-width": 2,
+        "stroke-opacity": 0.5,
+        "fill": "#1200ff",
+        "fill-opacity": 0.5,
+        "ROI": "port",
+        "name": "Stavanger"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.2679443359375,
+              58.75680543225761
+            ],
+            [
+              5.2679443359375,
+              59.22936606822124
+            ],
+            [
+              6.075439453125,
+              59.22936606822124
+            ],
+            [
+              6.075439453125,
+              58.75680543225761
+            ],
+            [
+              5.2679443359375,
+              58.75680543225761
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1200ff",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "ROI": "port",
+        "name": "Kristiansand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.99530029296875,
+          58.14172026743038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#1200ff",
+        "stroke-width": 2,
+        "stroke-opacity": 0.5,
+        "fill": "#1200ff",
+        "fill-opacity": 0.5,
+        "ROI": "port",
+        "name": "Kristiansand"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.811279296874999,
+              57.86228799417661
+            ],
+            [
+              7.811279296874999,
+              58.243054806872685
+            ],
+            [
+              8.4979248046875,
+              58.243054806872685
+            ],
+            [
+              8.4979248046875,
+              57.86228799417661
+            ],
+            [
+              7.811279296874999,
+              57.86228799417661
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1200ff",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "ROI": "port",
+        "name": "Kristiansund"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.723388671875,
+          63.09102960380634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#1200ff",
+        "stroke-width": 2,
+        "stroke-opacity": 0.5,
+        "fill": "#1200ff",
+        "fill-opacity": 0.5,
+        "ROI": "port",
+        "name": "Kristiansund"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.072448730468749,
+              62.91398247143233
+            ],
+            [
+              7.072448730468749,
+              63.09
+            ],
+            [
+              7.855224609374999,
+              63.323782575704335
+            ],
+            [
+              7.855224609374999,
+              62.91398247143233
+            ],
+            [
+              7.072448730468749,
+              62.91398247143233
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#1200ff",
+        "stroke-width": 2,
+        "stroke-opacity": 0.5,
+        "fill": "#1200ff",
+        "fill-opacity": 0.5,
+        "ROI": "port",
+        "name": "Thisted"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.66845703125,
+              56.49889156789072
+            ],
+            [
+              7.66845703125,
+              57.10641902897248
+            ],
+            [
+              8.50341796875,
+              57.10641902897248
+            ],
+            [
+              8.50341796875,
+              56.49889156789072
+            ],
+            [
+              7.66845703125,
+              56.49889156789072
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1200ff",
+        "marker-size": "medium",
+        "marker-symbol": "parking",
+        "ROI": "port",
+        "name": "Haugesund"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.262451171875,
+          59.4174876473711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#1200ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#1200ff",
+        "fill-opacity": 0.5,
+        "ROI": "port",
+        "name": "Haugesund"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.162200927734375,
+              59.383583679536315
+            ],
+            [
+              5.162200927734375,
+              59.48135847840536
+            ],
+            [
+              5.295410156249999,
+              59.48135847840536
+            ],
+            [
+              5.295410156249999,
+              59.383583679536315
+            ],
+            [
+              5.162200927734375,
+              59.383583679536315
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1200ff",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "ROI": "port",
+        "name": "Fetlar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.817108154296875,
+          60.602980985041754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#1200ff",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#1200ff",
+        "fill-opacity": 0.5,
+        "ROI": "port",
+        "name": "Fetlar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.8222579956054688,
+              60.59977889177551
+            ],
+            [
+              -0.8222579956054688,
+              60.62639716571707
+            ],
+            [
+              -0.7686996459960936,
+              60.62639716571707
+            ],
+            [
+              -0.7686996459960936,
+              60.59977889177551
+            ],
+            [
+              -0.8222579956054688,
+              60.59977889177551
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
