@@ -442,62 +442,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#1200ff",
-        "marker-size": "medium",
-        "marker-symbol": "parking",
-        "ROI": "port",
-        "name": "Kristiansund"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.723388671875,
-          63.09102960380634
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "stroke": "#1200ff",
-        "stroke-width": 2,
-        "stroke-opacity": 0.5,
-        "fill": "#1200ff",
-        "fill-opacity": 0.5,
-        "ROI": "port",
-        "name": "Kristiansund"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              7.072448730468749,
-              62.91398247143233
-            ],
-            [
-              7.072448730468749,
-              63.09
-            ],
-            [
-              7.855224609374999,
-              63.323782575704335
-            ],
-            [
-              7.855224609374999,
-              62.91398247143233
-            ],
-            [
-              7.072448730468749,
-              62.91398247143233
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stroke": "#1200ff",
         "stroke-width": 2,
         "stroke-opacity": 0.5,
