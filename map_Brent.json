@@ -145,40 +145,6 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#a10000",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "ROI": "weather",
-        "name": "11"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.5,
-          61.5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#a10000",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "ROI": "weather",
-        "name": "12"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2,
-          61.5
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
