@@ -78,7 +78,7 @@
         "fill": "#2aff00",
         "fill-opacity": 0.1,
         "ROI": "selection",
-        "name": "211/29"
+        "name": "Inner Area"
       },
       "geometry": {
         "type": "Polygon",
@@ -151,7 +151,7 @@
         "fill": "#ffffff",
         "fill-opacity": 0.01,
         "ROI": "selection",
-        "name": "all"
+        "name": "Global Area"
       },
       "geometry": {
         "type": "Polygon",
